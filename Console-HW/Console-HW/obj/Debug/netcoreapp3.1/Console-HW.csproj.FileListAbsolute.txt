@@ -1,0 +1,13 @@
+C:\Users\meyer\OneDrive - Southwestern Illinois College\Programming\Console-HW\Console-HW\bin\Debug\netcoreapp3.1\Console-HW.exe
+C:\Users\meyer\OneDrive - Southwestern Illinois College\Programming\Console-HW\Console-HW\bin\Debug\netcoreapp3.1\Console-HW.deps.json
+C:\Users\meyer\OneDrive - Southwestern Illinois College\Programming\Console-HW\Console-HW\bin\Debug\netcoreapp3.1\Console-HW.runtimeconfig.json
+C:\Users\meyer\OneDrive - Southwestern Illinois College\Programming\Console-HW\Console-HW\bin\Debug\netcoreapp3.1\Console-HW.runtimeconfig.dev.json
+C:\Users\meyer\OneDrive - Southwestern Illinois College\Programming\Console-HW\Console-HW\bin\Debug\netcoreapp3.1\Console-HW.dll
+C:\Users\meyer\OneDrive - Southwestern Illinois College\Programming\Console-HW\Console-HW\bin\Debug\netcoreapp3.1\Console-HW.pdb
+C:\Users\meyer\OneDrive - Southwestern Illinois College\Programming\Console-HW\Console-HW\obj\Debug\netcoreapp3.1\Console-HW.csprojAssemblyReference.cache
+C:\Users\meyer\OneDrive - Southwestern Illinois College\Programming\Console-HW\Console-HW\obj\Debug\netcoreapp3.1\Console-HW.csproj.CoreCompileInputs.cache
+C:\Users\meyer\OneDrive - Southwestern Illinois College\Programming\Console-HW\Console-HW\obj\Debug\netcoreapp3.1\Console-HW.AssemblyInfoInputs.cache
+C:\Users\meyer\OneDrive - Southwestern Illinois College\Programming\Console-HW\Console-HW\obj\Debug\netcoreapp3.1\Console-HW.AssemblyInfo.cs
+C:\Users\meyer\OneDrive - Southwestern Illinois College\Programming\Console-HW\Console-HW\obj\Debug\netcoreapp3.1\Console-HW.dll
+C:\Users\meyer\OneDrive - Southwestern Illinois College\Programming\Console-HW\Console-HW\obj\Debug\netcoreapp3.1\Console-HW.pdb
+C:\Users\meyer\OneDrive - Southwestern Illinois College\Programming\Console-HW\Console-HW\obj\Debug\netcoreapp3.1\Console-HW.genruntimeconfig.cache

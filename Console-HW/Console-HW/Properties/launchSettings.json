@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Console-HW": {
+      "commandName": "Project",
+      "commandLineArgs": "cars.csv, customers.csv"
+    }
+  }
+}
